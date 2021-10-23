@@ -1,8 +1,8 @@
-# This is my Chatbot project 
+# This is my Bilingual Chatbot project 
 
 ### For this project we used Python and Pytorch
 
-### Note that this project is not finished yet
+<br> <br><br>
 
 ### Our pipeline
 
